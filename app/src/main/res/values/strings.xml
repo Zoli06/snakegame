@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">snakegame</string>
+    <string name="right">→</string>
+    <string name="left">←</string>
+    <string name="up">↑</string>
+    <string name="down">↓</string>
+    <string name="gameOver">Game Over</string>
+    <string name="tryAgain">Try Again</string>
+</resources>

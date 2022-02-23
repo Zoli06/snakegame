@@ -1,0 +1,23 @@
+<resources>
+    <item
+        type="id"
+        name="up" />
+    <item
+        type="id"
+        name="right" />
+    <item
+        type="id"
+        name="down" />
+    <item
+        type="id"
+        name="left" />
+    <item
+        type="id"
+        name="points" />
+    <item
+        type="id"
+        name="gameOver" />
+    <item
+        type="id"
+        name="tryAgain" />
+</resources>
